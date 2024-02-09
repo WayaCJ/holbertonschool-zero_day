@@ -1,3 +1,9 @@
 # Mistakes #
 1. Root wasn't holberton folder, it was git.
-2. 
+2. No changing branch
+3. Instead of renaming, we deleted the folder
+4. Not knowing all the commands on vi
+5. On Exercise 5, there was a mistake on one of the exercise's instrucction
+---------------------------------------------------------------------------
+#!/bin/git/Found_Mistakes
+echo "Just Practicing!" 
